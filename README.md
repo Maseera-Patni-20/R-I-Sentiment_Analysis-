@@ -4,6 +4,14 @@
 
 This project demonstrates how to fetch comments from a YouTube video using the YouTube Data API, perform sentiment analysis on those comments, and visualize the sentiment distribution. The project utilizes Python libraries such as `googleapiclient`, `pandas`, and `TextBlob` for data processing and sentiment analysis, and `matplotlib` for visualization.
 
+## Background
+
+The background of the Israel-Iran conflict is complex and rooted in geopolitical, historical, and ideological differences. Initially, Israel and Iran had good relations, sharing common concerns over Arab powers. However, this changed drastically after the Iranian Revolution in 1979. Since then, Iran has supported groups like Hezbollah in Lebanon and Hamas in Palestine, which oppose Israel. On the other hand, Israel supports rebels in Iran and attacks Iran’s allies in Syria.
+
+Iran supports Palestinian groups because it views them as oppressed and seeks to maintain influence in the region. Additionally, Iran advocates for a one-state solution, aiming to replace Israel with a single state. Conversely, Israel perceives Iran as a significant threat, particularly over concerns about Iran obtaining nuclear weapons. To counteract this, Israel has engaged in military strikes and supported sanctions against Iran, escalating tensions.
+
+In recent events, on April 1, 2024, Israel bombed an Iranian target in Damascus, Syria, injuring multiple officials. In response, Iran and its proxies seized the Israeli-linked ship MSC Aries and struck Israel on April 13, 2024. Subsequently, Israel conducted retaliatory strikes in Iran and Syria on April 19, 2024, further intensifying the conflict.
+
 ## Prerequisites
 
 - Python 3.x
